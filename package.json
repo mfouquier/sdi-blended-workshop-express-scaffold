@@ -1,0 +1,30 @@
+{
+  "name": "sdi-blended-workshop-express-scaffold",
+  "version": "1.0.0",
+  "description": "For this activity, you will fulfill the following requirements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "url": "git+https://github.com/barwinn/sdi-blended-workshop-express-scaffold.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barwinn/sdi-blended-workshop-express-scaffold/issues"
+  },
+  "homepage": "https://github.com/barwinn/sdi-blended-workshop-express-scaffold#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "csv": "^6.2.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.1"
+  }
+}
